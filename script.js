@@ -1,5 +1,5 @@
 // ---------- Config ----------
-const API_BASE = "https://mental-health-score-predictor-1-rwwx.onrender.com/";
+const API_BASE = "https://mental-health-score-predictor-1-rwwx.onrender.com";
 const REQUEST_TIMEOUT_MS = 15000;
 const MAX_SCORE = 10; // change if your model's score scale differs
 
